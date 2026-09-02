@@ -4,7 +4,7 @@ A reusable Flutter template with:
 - Feature-based architecture (`core`, `shared`, `features`)
 - Firebase Authentication (Email/Password + Google)
 - Auth guard flow: Splash → AuthGuard → Login / Dashboard placeholder
-- Secure-by-default UI code (no password logging/storage, safe error messages)
+- Secure-by-default UI code (no password logging/storage, safe error messages) 
 
 > ⚠️ This template is **Firebase-ready** but intentionally **not connected to any Firebase project**.
 > You must create your own Firebase project and run `flutterfire configure` to generate the required per-platform configuration files.
