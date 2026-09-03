@@ -1,0 +1,1 @@
+https://kingpandesal.github.io/NegoShow-Privacy-Policy/
